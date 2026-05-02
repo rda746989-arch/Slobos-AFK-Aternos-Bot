@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Reda_lg.aternos.me:20236",
+    "ip": "Reda_lg.aternos.me",
     "port": 20236,
     "version": "26.1.2",
     "try-creative": false
